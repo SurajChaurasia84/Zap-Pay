@@ -1,6 +1,6 @@
 {
-    "name": "zap_pay",
-    "short_name": "zap_pay",
+    "name": "Zap Pay",
+    "short_name": "Zap Pay",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

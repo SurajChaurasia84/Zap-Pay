@@ -1,4 +1,4 @@
-package com.example.zap_pay
+package com.zappay.recharge.apps
 
 import io.flutter.embedding.android.FlutterActivity
 
